@@ -1,0 +1,33 @@
+header{
+    background-color: #003C54;
+}
+
+footer{
+    background-color: #003C54;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hov{
+    color: white;
+}
+
+.hov:hover{
+    color: springgreen;
+}
+
+.sprgreen{
+    background-color: #38E54D;
+}
+
+.hoverimg:hover{
+    opacity: 0.5;
+}
+
+
+main{
+    background-color:  #05A9C7;
+}
